@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculator_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Calculator_App
+A standard calculator flutter app which does the basic arithmetic functions like addition subtraction multiplication and division.
+>>>>>>> 53c3e88e659a57fac4254a1b4cffca86ac6478bf
